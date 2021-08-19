@@ -1,0 +1,3 @@
+# Plugins
+
+BetterDiscord plugin library
